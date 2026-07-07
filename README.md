@@ -15,6 +15,34 @@ BolashaqApp — интеллектуальная образовательная 
 ---
 
 # Что умеет BolashaqApp
+## 📱 Скриншоты
+
+### Добро пожаловать
+![Welcome](assets/screenshots/welcome.jpg)
+
+### Главный экран
+![Home](assets/screenshots/home_screen.jpg)
+
+### Выбор комбинации предметов
+![Combination](assets/screenshots/combination.jpg)
+
+### Подбор университетов
+![University](assets/screenshots/university.jpg)
+
+### Грант-радар
+![Grant Radar](assets/screenshots/grant_radar.jpg)
+
+### Профиль
+![Profile](assets/screenshots/profile.jpg)
+
+### Тест по математике
+![Math Test](assets/screenshots/test_math.jpg)
+
+### Тест по физике
+![Physics Test](assets/screenshots/test_physic.jpg)
+
+### Тест по истории
+![History Test](assets/screenshots/test_history.jpg)
 
 ### 🤖 ИИ-помощник
 
