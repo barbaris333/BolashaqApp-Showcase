@@ -1,6 +1,11 @@
 <div align="center">
 <img src="assets/logo/logo.png" alt="BolashaqApp Logo" width="150">
 <br><br>
+
+<img src="assets/banner/banner.png" alt="BolashaqApp Banner" width="100%">
+
+<br><br>
+<br><br>
 # BolashaqApp
 
 ### Smart preparation for the UNT
