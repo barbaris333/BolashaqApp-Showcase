@@ -6,83 +6,62 @@
 <br><br>
 # BolashaqApp
 
-### Smart preparation for the UNT
+# О проекте
 
-**Closed Beta**
+BolashaqApp — интеллектуальная образовательная платформа для подготовки к ЕНТ, объединяющая тестирование, искусственный интеллект, аналитику и персонализированное обучение в одном приложении.
 
-Flutter • Android • Supabase
-
-</div>
+Проект находится на стадии закрытого бета-тестирования.
 
 ---
 
-## About
+# Что умеет BolashaqApp
 
-BolashaqApp is a modern Android application designed to help students prepare for the Unified National Testing (UNT).
+### 🤖 ИИ-помощник
 
-The project focuses on fast performance, a clean interface and an extensive database of practice questions.
+Искусственный интеллект помогает разбирать ошибки, объяснять темы и сопровождать процесс подготовки.
 
-> Source code is private during the beta stage.
-> This repository serves as the official public showcase of the project.
+### 📊 Умная аналитика
 
----
+Подробная статистика по каждому предмету, выявление слабых мест и рекомендации для дальнейшего обучения.
 
-## Features
+### 📝 Полноценное тестирование
 
-- Modern Material Design interface
-- Large UNT question database
-- Mathematics rendering support
-- Detailed test statistics
-- Fast and lightweight experience
-- Continuous updates
+Полноформатные пробные экзамены ЕНТ с таймером, системой оценки и детальной статистикой.
 
----
+### 📚 Большая база вопросов
 
-## Project Status
+Более 4000 вопросов с регулярным пополнением.
 
-| Status | Value |
-|---------|-------|
-| Stage | Closed Beta |
-| Platform | Android |
-| Framework | Flutter |
-| Backend | Supabase |
+### 🎯 Персонализированная подготовка
+
+Обучение строится на основе результатов пользователя и его прогресса.
+
+### ⚡ Современный интерфейс
+
+Минималистичный дизайн, высокая скорость работы и удобная навигация.
 
 ---
 
-## Screenshots
+# Статус проекта
 
-Screenshots will be added soon.
+🟢 Закрытая бета
 
----
-
-## Demo
-
-Demo video coming soon.
+В настоящее время приложение проходит тестирование перед публичным запуском.
 
 ---
 
-## Roadmap
+# Дорожная карта
 
-See **docs/ROADMAP.md**
-
----
-
-## Changelog
-
-See **docs/CHANGELOG.md**
+- ✅ Закрытая бета
+- 🚧 Расширение базы вопросов
+- 🚧 Развитие ИИ-помощника
+- ⏳ Публичный релиз
+- ⏳ Публикация в Google Play
 
 ---
 
-## FAQ
+# Исходный код
 
-See **docs/FAQ.md**
+Исходный код проекта является приватным.
 
----
-
-## Contact
-
-GitHub Issues will be used for bug reports and feedback.
-
----
-
-© BolashaqApp
+Данный репозиторий создан как официальная публичная витрина проекта, где публикуются новости разработки, дорожная карта, скриншоты и релизы.
